@@ -29,6 +29,7 @@
         "setups": true
     },
      "lavalink": {
+        "lavalink": {
         "identifier": "GlaceYT",
         "password": "enteryourcustompass",
         "host": "180.188.226.76",
